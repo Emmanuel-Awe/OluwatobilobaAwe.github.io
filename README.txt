@@ -1,30 +1,15 @@
-Dimension by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# 🌐 Emmanuel the Analyst – Portfolio Website
 
+Welcome to my personal portfolio website! This space is dedicated to showcasing my growing body of work in **SQL**, **Excel**, and **Power BI**.
 
-This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
-and a cool depth effect (click on a menu item to see what I mean). Simple, fully
-responsive, and kitted out with all the usual pre-styled elements you'd expect.
-Hope you dig it :)
+As I continue to build real-world projects across data analytics and reporting, this site will serve as a central hub where I share:
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+- Cleaned and transformed datasets using SQL
+- Interactive dashboards created in Excel
+- Data visualizations and business insights using Power BI
 
-(* = not included)
+Each project reflects a new concept or technique I’ve learned, from writing efficient SQL queries and building logic-based Excel dashboards to designing impactful visuals that support data-driven decisions.
 
-AJ
-aj@lkn.io | @ajlkn
+Whether you're a recruiter, collaborator, or fellow data enthusiast, I hope my work here provides a clear view of my journey and capabilities.
 
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+🔗 Visit the site: https://emmanuel-awe.github.io/OluwatobilobaAwe.github.io/#
